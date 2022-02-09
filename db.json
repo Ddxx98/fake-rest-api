@@ -48,5 +48,31 @@
             "proName": "What is JSON",
             "proDesc" : "It is a text-based way of representing JavaScript object literals, arrays, and scalar data. JSON is relatively easy to read and write, while also easy for software to parse and generate."
         }
-    ]
+    ],
+
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "relative path from local",
+            "date": "new Date()"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "relative path from local",
+            "date": "new Date()"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "relative path from local",
+            "date": "new Date()"
+            }
+            ]
 }
+
